@@ -20,8 +20,8 @@ El mural fue construido utilizando HTML, CSS y JavaScript e incluye:
 - Eder Fabián Trujillo Jiménez
 
 ## 🚀 Ver en línea
-Próximamente disponible vía GitHub Pages en: 
-`https://tu-usuario.github.io/mural-interactivo-inhouse-stem/`
+Disponible vía GitHub Pages en: 
+`https://ingenierodiego.github.io/mural-digital-aprendizaje-activo/`
 
 ## 📂 Estructura de archivos
 ```bash
