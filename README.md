@@ -21,7 +21,7 @@ El mural fue construido utilizando HTML, CSS y JavaScript e incluye:
 
 ## 🚀 Ver en línea
 Disponible vía GitHub Pages en: 
-`https://ingenierodiego.github.io/mural-digital-aprendizaje-activo/`
+https://ingenierodiego.github.io/mural-digital-aprendizaje-activo/
 
 ## 📂 Estructura de archivos
 ```bash
